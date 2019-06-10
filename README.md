@@ -1,2 +1,2 @@
-# deepakSrivastav
+# DeepakSrivastav
 React Redux Concpet
